@@ -25,7 +25,7 @@ int main() {
             << marks[r] << endl;
    }
 }
-```
+/*```
 ```setw(), setprecision(), setiosflags(ios::fixed)```
 
 Note : No has a width of 5, Name a width of 15, and Marks a width of 10, the marks are displayed with a precision of 2 decimal places.
@@ -191,4 +191,4 @@ void print(int len, int wth) {
 
 // Implement the Input Function here
 ```
-
+*/
